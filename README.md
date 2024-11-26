@@ -1,6 +1,6 @@
 # Encryptix - Machine Learning Internship Tasks
 
-This repository contains the tasks completed during my Machine Learning internship at [Company Name]. The tasks involve applying machine learning techniques to various real-world problems, including data preprocessing, model development, training, evaluation, and results reporting. Each task is organized in separate directories and documented accordingly.
+This repository contains the tasks completed during my Machine Learning internship at **Encryptix**. My name is **Labiba Adinda Zahwana**, and throughout this internship, I applied machine learning techniques to various real-world problems, including data preprocessing, model development, training, evaluation, and results reporting. Each task is organized in separate directories and documented accordingly.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
